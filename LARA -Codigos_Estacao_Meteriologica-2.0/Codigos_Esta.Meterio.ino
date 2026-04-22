@@ -8,8 +8,8 @@
 #include <WiFiUdp.h>
 
 // Credenciais do Wi-Fi
-char ssid[] = "ESTACIO-VISITANTES";
-char pass[] = "estacio@2014";
+char ssid[] = "33333";
+char pass[] = "333333";
 
 // Pinos e configurações
 #define DHTPIN 2       // Pino digital para o sensor DHT

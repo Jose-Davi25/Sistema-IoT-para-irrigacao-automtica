@@ -1,5 +1,5 @@
 ﻿# Sistema-IoT-para-irrigacao-automtica
 
-# (LINK DO PROJETO EM ARDUINO PELO TINKERCAD)[https://www.tinkercad.com/things/bKttZNBkuo7-meteriologia]
+🔗 [Projeto no Tinkercad](https://www.tinkercad.com/things/bKttZNBkuo7-meteriologia)
 
-# (LINK DO PROJETO EM ARDUINO PELO WOKWI)[https://wokwi.com/projects/433519632825571329]
+🔗 [Projeto no Wokwi](https://wokwi.com/projects/433519632825571329)
